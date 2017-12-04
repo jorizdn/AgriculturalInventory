@@ -1,0 +1,22 @@
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.deps.json
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.runtimeconfig.json
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.runtimeconfig.dev.json
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.dll
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.pdb
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.csprojResolveAssemblyReference.cache
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.AssemblyInfo.cs
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.dll
+c:\users\dev partners\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.pdb
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.deps.json
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.runtimeconfig.json
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.runtimeconfig.dev.json
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.dll
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\bin\Debug\netcoreapp1.1\SampleProject.pdb
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.AssemblyInfoInputs.cache
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.AssemblyInfo.cs
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.dll
+C:\Users\DEV PARTNERS\Documents\GitHub\AgriculturalInventory\SampleProject\SampleProject\obj\Debug\netcoreapp1.1\SampleProject.pdb
